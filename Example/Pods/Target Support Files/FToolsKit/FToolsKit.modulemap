@@ -1,0 +1,6 @@
+framework module FToolsKit {
+  umbrella header "FToolsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

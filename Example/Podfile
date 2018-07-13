@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FToolsKit_Example' do
+  pod 'FToolsKit', :path => '../'
+
+  target 'FToolsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

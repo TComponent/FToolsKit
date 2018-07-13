@@ -1,0 +1,6 @@
+framework module Pods_FToolsKit_Tests {
+  umbrella header "Pods-FToolsKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
